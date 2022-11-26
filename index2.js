@@ -1,8 +1,8 @@
 const drink = ["Soda","NOCODE","Tea"]
 
-for (const d of drink){
-    console.log(d)
-}
+//for (const d of drink){
+//    console.log(d)
+//}
 
 const users = [
     {name : 'DINO' ,age:9000},
